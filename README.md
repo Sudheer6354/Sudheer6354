@@ -12,7 +12,7 @@
  - GitHub: [Your GitHub Profile](github.com/Sudheer6354)
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
- - I once car across 1100 in one day
+ - I once car across 1100km in one day
  - I can play any game easily in mobile
 
 <!---
