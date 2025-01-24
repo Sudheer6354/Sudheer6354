@@ -6,12 +6,14 @@
  - Machine learning and AI research
  - Front-end web development using React
  - Writing documentation and tutorials
-- 📫 How to reach me
- -  Email: yourname@example.com
+- 📫 How to reach me :
+ -  Email: sudheergodlaveeti@gmail.com
  - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/godlaveeti-sudheer-achari-a503bb317)
- - GitHub: [Your GitHub Profile]()
-- 😄 Pronouns: ...
+ - GitHub: [Your GitHub Profile](github.com/Sudheer6354)
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
+ - I once car across 1100 in one day
+ - I can play any game easily in mobile
 
 <!---
 Sudheer6354/Sudheer6354 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
